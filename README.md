@@ -1,8 +1,8 @@
-# JB Pro League 2026 #2
+# BC Game Masters Season 1
 
 ![Dates](https://img.shields.io/badge/Date-Mar%202%20%E2%80%93%20Mar%2015%2C%202026-blue) ![Prize Pool](https://img.shields.io/badge/Prize%20Pool-$25,000-brightgreen)
 
-**JB.com** and **@vantagl**, announce **JB Pro League 2026 #2** — a Tier 2 Counter-Strike 2 online tournament with a **$25,000** prize pool, taking place between **March 2 - March 15, 2026**.
+**BC Game** and **@vantagl**, announce **BC Game Masters Season 1** — a Tier 2 Counter-Strike 2 online tournament with a **$25,000** prize pool, taking place between **March 2 - March 15, 2026**.
 
 ---
 
@@ -35,7 +35,7 @@
 - Invitations will be **withdrawn** if players are lost due to **Valve sanctions** or confirmed **cheating bans** issued by recognized anti-cheat providers (including **Akros** and **FACEIT**).
 - **Open Qualifier:** No Open Qualifier for this edition
 - **Tournament stages:** All stages are **online**
-- **Rulebook:** [`JB Pro League 2026 #2 Rulebook`](./JB-Pro-League-2026-2-Rulebook.pdf)
+- **Rulebook:** [`BC Game Masters Season 1 Rulebook`](./BC-Game-Masters-Season-1-Rulebook.pdf)
 
 ---
 
